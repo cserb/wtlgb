@@ -2202,7 +2202,7 @@
     webpack-node-externals "^3.0.0"
     webpackbar "^5.0.2"
 
-"@nuxtjs/emotion@^0.1.0":
+"@nuxtjs/emotion@0.1.0":
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/@nuxtjs/emotion/-/emotion-0.1.0.tgz#1785c8b96f39f6e01210d96d8dd50f3ed4a0f1bb"
   integrity sha512-4CZnmwIVnWAMBK4mV5KgLBMeMuCPFmNgKg6nBucbDTazYBXV8omSj3wJSvKHZRYzUoJHQBASQxyePTQFFabPrQ==
