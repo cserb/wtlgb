@@ -40,7 +40,8 @@ export default {
     // https://go.nuxtjs.dev/emotion
     '@nuxtjs/emotion',
     // https://go.nuxtjs.dev/content
-    '@nuxt/content'
+    '@nuxt/content',
+    '@nuxt/http',
   ],
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
@@ -48,5 +49,9 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-  }
+  },
+
+  serverMiddleware: [
+    '~/api/handler.js'
+  ]
 }
