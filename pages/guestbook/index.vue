@@ -48,7 +48,6 @@
         </CBox>
       </div>
     </div>
-
   </div>
 </template>
 
